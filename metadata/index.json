@@ -1,0 +1,43 @@
+{
+  "versions": [
+    {
+      "version": "v1.0.0",
+      "folder": "v1.0",
+      "tag": "v1.0.0",
+      "artifacts": {
+        "context": {
+          "path": "contexts/v1.0/AyraBusinessCardV1R0.jsonld",
+          "raw": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/main/contexts/v1.0/AyraBusinessCardV1R0.jsonld",
+          "tagged": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/v1.0.0/contexts/v1.0/AyraBusinessCardV1R0.jsonld"
+        },
+        "schema": {
+          "path": "schemas/v1.0/ayra-card-business-card-schema.json",
+          "raw": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/main/schemas/v1.0/ayra-card-business-card-schema.json",
+          "tagged": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/v1.0.0/schemas/v1.0/ayra-card-business-card-schema.json"
+        },
+        "payloadSchema": {
+          "path": "payload-schemas/v1.0/payload-schema-unified.json",
+          "raw": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/main/payload-schemas/v1.0/payload-schema-unified.json",
+          "tagged": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/v1.0.0/payload-schemas/v1.0/payload-schema-unified.json"
+        },
+        "legacyPayloadSchema": {
+          "path": "payload-schemas/v1.0/payload-schema.json",
+          "raw": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/main/payload-schemas/v1.0/payload-schema.json",
+          "tagged": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/v1.0.0/payload-schemas/v1.0/payload-schema.json"
+        },
+        "examples": {
+          "credential": {
+            "path": "examples/v1.0/example-credential.json",
+            "raw": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/main/examples/v1.0/example-credential.json",
+            "tagged": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/v1.0.0/examples/v1.0/example-credential.json"
+          },
+          "credentialSubject": {
+            "path": "examples/v1.0/example-credentialSubject.json",
+            "raw": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/main/examples/v1.0/example-credentialSubject.json",
+            "tagged": "https://raw.githubusercontent.com/ayraforum/ayra-governed-artifacts/v1.0.0/examples/v1.0/example-credentialSubject.json"
+          }
+        }
+      }
+    }
+  ]
+}
